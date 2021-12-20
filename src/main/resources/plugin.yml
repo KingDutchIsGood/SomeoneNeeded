@@ -1,0 +1,4 @@
+name: CustomFHELP
+version: '${project.version}'
+main: discord.m41n.di.customfhelp.CustomFHELP
+description: CustomFHELP
